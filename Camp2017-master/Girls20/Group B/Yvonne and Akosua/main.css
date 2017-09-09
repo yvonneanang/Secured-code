@@ -1,0 +1,17 @@
+img{height:300px;
+width:200px;}
+
+h1{border: groove 5px;}
+body{background-color: beige;}
+
+p{text-align: center;}
+
+h1{background-color:burlywood;
+color: darkred;}
+
+h2{text-align: center;
+font-style: oblique;
+color:darkslategray;}
+
+body{border: dotted 5px;
+border-color: darkslategray;}

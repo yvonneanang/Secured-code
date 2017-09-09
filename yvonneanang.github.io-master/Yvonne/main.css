@@ -1,0 +1,19 @@
+body{background : yellow;}
+img{height: 100px;
+           width: 100px;
+}
+h1{background : red;}
+h2{background : orange;}
+h3{background : indigo;}
+h4{background : green;}
+h5{background : blue;}
+h6{background : violet;}
+
+a{ color :fuchsia;}
+
+p{color :aqua;}
+
+.me{color: red;}
+.you{color: blue;}
+.us{color: green;}
+
